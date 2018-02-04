@@ -1,0 +1,13 @@
+Package: com.timmylovecx.iconhider
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Timmy <timmylovecx@gmail.com>
+Filename: /com.timmylovecx.iconhider_0.0.1-1+debug_iphoneos-arm.deb
+Size: 6434
+MD5sum: 9352eef305969ab3763ae6911c2aab19
+SHA1: 22634c115cbecb20d7c67e8d825d195f7540b728
+SHA256: e244646e3b3ec303d8113318639df2f6b49bda292e6907e1b093abbf83ca33e0
+Section: Tweaks
+Description: Test Tweak For Repo.
+Author: Timmy <timmylovecx@gmail.com>
+Name: IconHideXI
